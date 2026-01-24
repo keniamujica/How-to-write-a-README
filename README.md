@@ -1,7 +1,8 @@
 # How-to-write-a-README
 This document provides a template and essential guidelines for creating a professional and helpful README.md file for your software project. A strong README serves as the project's documentation, offering a quick and comprehensive guide for new users and contributors.
 
-The template contains instructions and boilerplate text that you may keep, modify, or replace entirely. **Any text shown in `{curly brackets}` is a placeholder and should be replaced with your own content.**
+The template contains instructions and boilerplate text that you may keep, modify, or replace entirely.\
+**Any text shown in `{curly brackets}` is a placeholder and should be replaced with your own content.**
 
 ## {Project} logo and badges (Optional)
 {Include an image of the project logo and add links to any relevant badges in the README.}
@@ -44,9 +45,9 @@ _{Include supporting visuals like screenshots or videos in this section to suppo
 {List the primary frameworks and libraries used to initiate your project in this section. Reserve any add-ons or plugins for the acknowledgements:}
 
 Here are some examples:
-1. {Node.js}
-2. {npm or yarn}
-3. {MongoDB}
+1. Node.js
+2. npm or yarn
+3. MongoDB
 4. {Prerequisite 4...}
 
 
@@ -97,9 +98,10 @@ npm start
 {Provide links to supplementary documentation along with short descriptions.}
 
 **For More Information:**
-1. Reference 1
-2. Reference 2
-3. Reference 3
+1. Syntax: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+2. About: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+3. README Examples: https://www.surajon.dev/awesome-readme-examples-for-writing-better-readmes
+4. {Reference 4...}
 
 ## Terms of use
 {Project Name} is licensed under {link to license file}.
