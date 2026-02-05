@@ -162,3 +162,9 @@ Please ensure your code follows our style guidelines and includes appropriate te
 
 ## Final note
 A well-written README lowers the barrier to entry for users and contributors while making your project easier to maintain over time. Clear structure, intentional examples, and thoughtful documentation help your work speak for itself- both now and in the future.
+
+## Works Cited
+Works Cited
+GitHub Docs. "About READMEs." GitHub Documentation, https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes. \
+"Make a README." MakeaReadme.com, https://www.makeareadme.com/. \
+Markdown Guide. "Getting Started." Markdown Guide, https://www.markdownguide.org/getting-started/.
